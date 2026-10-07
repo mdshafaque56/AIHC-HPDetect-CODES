@@ -290,7 +290,7 @@ python inference.py --image path/to/image.png --weights path/to/weights.pth
 
 ## 📄 License
 
-This project was developed for academic purposes. Add a license of your choice (e.g., MIT) via a `LICENSE` file.
+This project was developed for academic purposes.
 
 ---
 
